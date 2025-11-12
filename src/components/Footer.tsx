@@ -36,7 +36,7 @@ const Footer: React.FC = () => {
         <div className="mt-6 text-center text-sm text-gray-500 dark:text-gray-400 flex items-center justify-center gap-1">
           <span>Made with</span>
           <Heart size={14} className="text-error-500 dark:text-error-400" />
-          <span>and modern web technologies</span>
+          <span>By Abotalib Adam</span>
         </div>
       </div>
     </footer>
